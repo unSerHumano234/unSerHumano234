@@ -1,4 +1,4 @@
-Proyecto de extención:
+Proyecto de extensión:
 En el proyecto de extención se eligió una pequeña empresa que no contaba con un
 sistema para poder crear uno. En mi caso, estoy trabajando en un sistema para una cerrajería.
 Para el sistema, estpan planeados 3 a 4 módulos, uno de ellos, un registro de stock
